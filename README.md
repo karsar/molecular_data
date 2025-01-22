@@ -1,6 +1,6 @@
 # Molecular Data
 
-This repository contains molecular datasets for machine learning experiments. Each dataset is organized into folders named after the corresponding molecule.
+This repository contains toy molecular datasets for machine learning experiments. Each dataset is organized into folders named after the corresponding molecule.
 
 ## Contents
 
